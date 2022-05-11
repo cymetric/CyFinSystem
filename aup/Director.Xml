@@ -2,27 +2,12 @@
 <AppLifeUpdate BuilderVersion="4.0.2.28" type="full" xmlns="http://www.kineticjump.com/AppLifeUpdate/DirectorSchema">
 	<Application AppId="0ab5aea3-8370-432f-ad47-bcaed4f642f6" NoUpdateDisplayText="">
 		<Versions>
+			<Version number="1.0.6.2" postdate="2022-05-11T17:02:20.3852255Z" signature="JNyXWHJb4EoTIrcuHa7s9iTljDVLgEVXwOpx5HbaXOYgwccjLqAj0429v9rIJKT6eQ+QtzaqaXKwc5ylK3lenxH4ApiORVI2F51ysJPGFelDyUzSJMpF2C/stNmai9yEdKuw+Fmn7FLbaNweK+tKBY/fKo6lTaNBWDp6TLxokv4=" fileSize="649388" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
+				<Targets>
+					<Target number="0.0.0.0" />
+				</Targets>
+			</Version>
 			<Version number="1.0.6.1" postdate="2022-05-11T09:58:46.2698623Z" signature="UseikeeqHinsmu93ZqEaDAqfnVuxB+HL9r1r211DO/xujuiS5dQvpBqqPN+nHYIDtqTvjkj3BCY2XzTWSIztGfPOnHxgTmFGvgi1EVgKvBztVnDoBvWwpT4zsVIJeYkwDfGoLIjnmHIKpP0E/xOTo46Uk2JG47UnyyJux5u8v/o=" fileSize="649196" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
-				<Targets>
-					<Target number="0.0.0.0" />
-				</Targets>
-			</Version>
-			<Version number="1.0.6.0" postdate="2022-05-11T09:45:42.6093981Z" signature="W/Wt68l5L0dlBvOMitXPPnrKZ5W9/LZMaVemGkeavUcunCURgRaBFXMlv8MvCBMmCIno6fjBRYhsvV/s6ueXRNddqKWpnHUr4rHrHNzYLzdNxxqByNyTRGAb1EHgPMwL7pY1Q8ve8siONREJvyydNTop2AWQRnvdnVbn+mwd5GA=" fileSize="649120" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
-				<Targets>
-					<Target number="0.0.0.0" />
-				</Targets>
-			</Version>
-			<Version number="1.0.5.0" postdate="2022-05-11T09:38:01.6561885Z" signature="TTRaNa/NEEcL6/XVjZau/tZU6HbQwX39D4C3KrONYrCQ8NEFxMJ6aAyx7/q+0/Hgjk6k7latJ6WnBVlNj1aQ0C23ww05UENJ1+GW/cuT4ozNl806ILp8TpFbz0T7OSasBbEmm6nVtPmjw2JWzBgK6gl6jY5bPO5lu+gltr1eHzs=" fileSize="649105" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
-				<Targets>
-					<Target number="0.0.0.0" />
-				</Targets>
-			</Version>
-			<Version number="1.0.4.0" postdate="2022-05-11T09:27:10.3515822Z" signature="VbnXmx170iShka878pp091pfTxmeauaADmLtx/enZwL5DpUoF8ZLLEqGWTwlIpLwy85rHq0CmpgSQPp0hDZQYGhCmTM4LT8VqqreLNjebETD3fSPRr18PtuH+c+oD6o0btucgodbgx/v6+Svqdjmv3Hzxq9rJYbpwtZ4lsoXQ4Y=" fileSize="655766" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
-				<Targets>
-					<Target number="0.0.0.0" />
-				</Targets>
-			</Version>
-			<Version number="1.0.3.0" postdate="2022-05-11T09:15:50.7191516Z" signature="uzurLu6gWrB1ppy3AZZSqIhgvyQB5jhI7pUJD8S7DXXfsVsfg1njyR2r9vxR+e3SPfahqUSAW5fsm67qneQXprZdy1cfyF+PL8skzsN54rDh6MaiY37I11TnqxZ8fUpUJQ1UyUEE9iQNUToEmkDXCaYZgx+Bnfy1SAmNZU9qC8Q=" fileSize="653570" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
 				<Targets>
 					<Target number="0.0.0.0" />
 				</Targets>
