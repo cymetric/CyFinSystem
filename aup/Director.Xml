@@ -2,6 +2,11 @@
 <AppLifeUpdate BuilderVersion="4.0.2.28" type="full" xmlns="http://www.kineticjump.com/AppLifeUpdate/DirectorSchema">
 	<Application AppId="0ab5aea3-8370-432f-ad47-bcaed4f642f6" NoUpdateDisplayText="">
 		<Versions>
+			<Version number="1.0.6.4" postdate="2022-05-12T04:36:03.9534049Z" signature="u4Z1pZrtuhYdImI7nSR7Cxe8Q2fE5lubqocvB8NbCcXlJtWQBFbPpBlXQT7UviOSJFVg5g7X49SAqEraPn/dq3gleOu1EAJ7vbcPTW/zKL1iNGoumShTXoHMyPV56gD9DCLH6V2p8GRfNtsm7/nn5F/LBDfmxZjQi6kN8LSXtVY=" fileSize="649187" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
+				<Targets>
+					<Target number="0.0.0.0" />
+				</Targets>
+			</Version>
 			<Version number="1.0.6.3" postdate="2022-05-11T17:27:23.2852833Z" signature="GsgvS0S5ydf5iz6B5d1sjk72nkN+v03reXFwtltg5eQy5OHsqYVUb1ZfgHPeTdMMiQ23o0P6EWdKyjBmgCf2qaBC8FkEJGg11j7YtVC3mWsmHfpKhl0J0A5lQ4H4SGiIPKD4SxecnIJFInN5azafgoLaA8/7+9PXGT6hZ1HhR68=" fileSize="649404" isTest="false" allowChaining="true" uacLauncherHash="Nah5Ha1/bpyeWorExjjCL5Te+GA=">
 				<Targets>
 					<Target number="0.0.0.0" />
